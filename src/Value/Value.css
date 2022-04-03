@@ -1,0 +1,20 @@
+.main{
+    padding: 10px;;
+    background-color: black;
+    border-radius:50px;
+    width: 500px; 
+    height: 300px;
+}
+.name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: aqua;
+    font-size: xx-large;
+    
+}
+.detail{
+    color: whitesmoke;
+    padding: 10px;
+    line-height:25px;
+    font-size:x-large;
+}

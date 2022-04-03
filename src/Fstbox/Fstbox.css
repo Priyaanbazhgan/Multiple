@@ -1,0 +1,8 @@
+.Top{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-around; 
+    row-gap:30px;
+    column-gap:30px;
+}
