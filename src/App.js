@@ -1,17 +1,12 @@
-import React from "react";
-
-import Fstbox from"./Fstbox/Fstbox";
-import "./App.css"
-
+import Chat from "./Chat/Chat";
+//import './App.css';
 
 function App() {
   return (
-    <div className="App" >
-       
-      <Fstbox></Fstbox>
-     
-      
-    </div>
+    <>
+      <Chat></Chat>
+    </>
+    
   );
 }
 
